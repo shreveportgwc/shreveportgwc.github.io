@@ -1,0 +1,33 @@
+#top-links{
+  position: absolute;
+  bottom: 40px;
+  text-align: center;
+  width:100%;
+}
+
+#top-links a:link,
+#top-links a:visited {
+  line-height: 1;
+  color: #ffffff;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  font-weight: 800;
+  font-size: 1.3em;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#top-links a:hover {
+  font-weight: 850;
+}
+
+.inner-links {
+  text-align: center;
+}
+
+.inner-links a:link,
+.inner-links a:visited{
+  color:#7c334f;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  font-weight: 500;
+  font-size: 1.2em;
+}
